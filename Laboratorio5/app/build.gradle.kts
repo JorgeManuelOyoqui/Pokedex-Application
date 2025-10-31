@@ -69,4 +69,7 @@ dependencies {
 
     // Coil
     implementation(libs.coil.compose)
+
+    // Material Pull to refresh
+    implementation(libs.androidx.material)
 }
